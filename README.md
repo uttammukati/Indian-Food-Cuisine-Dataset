@@ -1,5 +1,7 @@
 # 🧹 Indian Food Cuisine Data Cleaning with Excel
 
+![Data Cleaning Dashboard](Dashboard.png)
+
 This project demonstrates effective **data cleaning techniques using Microsoft Excel**. It is designed for anyone looking to understand and apply data preprocessing steps manually through Excel's built-in features and tools.
 
 ---
